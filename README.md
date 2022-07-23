@@ -5,6 +5,7 @@
 1. Clone project
 1. Run `npm i` or `yarn`
 1. Run development server with `npm run dev` or `yarn dev`
+1. Run tests with `npm run test` or `yarn test`
 
 ## Using
 
